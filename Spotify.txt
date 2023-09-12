@@ -1,7 +1,6 @@
-::1 localhost
-127.0.0.1 0.fls.doubleclick.net
-127.0.0.1 00.video-ak.cdn.spotify.com
-127.0.0.1 000.fls.doubleclick.net
+0.0.0.0 0.fls.doubleclick.net
+0.0.0.0 00.video-ak.cdn.spotify.com
+0.0.0.0 000.fls.doubleclick.net
 127.0.0.1 000000.fls.doubleclick.net
 127.0.0.1 000000000.fls.doubleclick.net
 127.0.0.1 01.video-ak.cdn.spotify.com
