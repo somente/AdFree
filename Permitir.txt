@@ -1,0 +1,12 @@
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 dealer.spotify.com
+0.0.0.0.0 audio4-fa.scdn.co
+0.0.0.0 global-dealer-ssl.spotify.com
+0.0.0.0.0 lineup-images.scdn.co
+0.0.0.0.0 download.scdn.co
+0.0.0.0.0 t.scdn.co
+0.0.0.0 daily-mix.scdn.co
+0.0.0.0 accounts.scdn.co
+0.0.0.0 audio-akp-spotify-com.akamaized.net
+0.0.0.0 audio4-akp-spotify-com.akamaized.net
