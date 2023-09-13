@@ -10,3 +10,7 @@
 0.0.0.0 accounts.scdn.co
 0.0.0.0 audio-akp-spotify-com.akamaized.net
 0.0.0.0 audio4-akp-spotify-com.akamaized.net
+0.0.0.0 login5.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 open.spotify.com
+0.0.0.0 api-partner.spotify.com
