@@ -839,6 +839,13 @@
 0.0.0.0 fp.measure.office.com
 0.0.0.0 nel.measure.office.net
 0.0.0.0 ecs.nel.measure.office.net
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 advertising.yandex.ru
 0.0.0.0 excelonline.nel.measure.office.net
 0.0.0.0 exo.nel.measure.office.net
 0.0.0.0 identity.nel.measure.office.net
